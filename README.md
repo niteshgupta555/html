@@ -1,11 +1,10 @@
-## Welcome to Nitesh's Page
+Hey Kukkur Welcome to My fucking Page
 
-You can use the [editor on GitHub](https://github.com/niteshgupta555/html/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the following names for the persons which seems to behave like me
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+#Dallidar Buddhi
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
